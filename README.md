@@ -1,5 +1,7 @@
 # T38 Submission
 
+This project is to learn Semantic Similarity (NLP).
+
 # Task 1
 
 ## File
